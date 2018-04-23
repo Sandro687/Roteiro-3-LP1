@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1524511872 source:/home/sandro/Documents/LP1 - LAB/Despesas/controlegastos.cpp
+	<iostream>
+	<string>
+	<vector>
+	"controlegastos.h"
+	"despesas.h"
+
+1524511725 /home/sandro/Documents/LP1 - LAB/Despesas/controlegastos.h
+	<iostream>
+	<string>
+	<vector>
+	"despesas.h"
+
+1524511725 /home/sandro/Documents/LP1 - LAB/Despesas/despesas.h
+	<iostream>
+	<string>
+
+1524511857 source:/home/sandro/Documents/LP1 - LAB/Despesas/despesas.cpp
+	<iostream>
+	<string>
+	"despesas.h"
+
