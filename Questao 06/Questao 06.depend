@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524512851 source:/home/sandro/Documents/LP1 - LAB/Questao 06/controlepagamentos.cpp
+	"controlepagamentos.h"
+	"pagamento.h"
+	<iostream>
+
+1524512848 /home/sandro/Documents/LP1 - LAB/Questao 06/controlepagamentos.h
+	<iostream>
+	"pagamento.h"
+
+1524512830 /home/sandro/Documents/LP1 - LAB/Questao 06/pagamento.h
+	<iostream>
+
