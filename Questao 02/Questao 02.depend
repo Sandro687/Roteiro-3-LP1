@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524509151 source:/home/sandro/Documents/LP1 - LAB/Questao 02/main.cpp
+	<iostream>
+	<stdio.h>
+	"Invoice.h"
+
+1524509047 /home/sandro/Documents/LP1 - LAB/Questao 02/Invoice.h
+	<string>
+
